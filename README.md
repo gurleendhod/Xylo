@@ -1,5 +1,5 @@
 # Xylo
-Xylo is a simple yet interactive xylophone simulator which plays different sounds on pressing the rainbow coloured keys.
+Xylo is a simple yet interactive xylophone simulator that plays different sounds by pressing the rainbow-colored keys.
 
 
 <p align="center">
